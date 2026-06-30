@@ -2,6 +2,8 @@
 
 Score-Reflow is a high-contrast, accessibility-focused GUI tool for managing grading workflows and interacting with LMS platforms such as Canvas (e.g., UCF Webcourses).
 
+Link to ACM Papaer presented at GLSVLSI: https://dl.acm.org/doi/10.1145/3787109.3816049?__cf_chl_f_tk=Dfav7mAalet4U5WzNZ4faoWSW5Xi00rb2jE5o0yvDJY-1782780325-1.0.1.1-A7gyY5Vb_ydqjFewmiFROHTnoBJb09DYeGc07Ak1AX8
+
 ---
 
 ## ✨ Features
